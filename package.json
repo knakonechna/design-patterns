@@ -23,6 +23,6 @@
   "author": "Kateryna Nakonechna",
   "license": "ISC",
   "devDependencies": {
-    "typescript": "^4.5.3"
+    "typescript": "4.5.3"
   }
 }

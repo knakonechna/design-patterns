@@ -38,3 +38,4 @@ export class GetCurrYearDecorator extends Decorator {
         return 24 + super.calcAge();
     }
 }
+

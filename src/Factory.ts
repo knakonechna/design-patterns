@@ -10,3 +10,4 @@ export abstract class Creator {
         return `Creator return: ${product.calcAge()}`;
     }
 }
+
